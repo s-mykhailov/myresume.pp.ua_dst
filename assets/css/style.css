@@ -405,4 +405,20 @@ body {
   padding: 0px;
 }
 
+.github-corner svg {
+  color:#fff;
+  fill:var(--accent);
+  height:70px;
+  width:70px
+}
+
+.github-corner {
+  border-bottom: 0;
+  position: fixed;
+  right: 0;
+  text-decoration: none;
+  top: 0;
+  z-index: 1;
+} 
+
 /*# sourceMappingURL=style.css.map */
